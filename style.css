@@ -1,0 +1,26 @@
+h2 {
+    font-size: 100px;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    font-weight: bold;
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .center {
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  button {
+    border-radius: 10px;
+  }
+
+
+  
+  
